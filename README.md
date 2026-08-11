@@ -4,7 +4,7 @@ Fill in the fields, upload a photo, download a print-ready certificate — a sin
 that runs offline with no server, no build step and no network access.<br>
 填欄位、上傳照片、下載可直接列印的獎狀 — 單一 HTML 檔，離線運作，不用伺服器、不用建置、完全不連網。
 
-🪐 每天 vibe coding App #52 — 更多作品請見 The Little AI App Planet / Daily vibe coding app #52 — see all apps at The Little AI App Planet
+> 🪐 每天 vibe coding App #52 — 更多作品請見 The Little AI App Planet / Daily vibe coding app #52 — see all apps at The Little AI App Planet
 
 [English](#english) | [中文說明](#中文說明)
 
